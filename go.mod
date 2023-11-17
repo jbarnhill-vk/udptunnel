@@ -1,4 +1,4 @@
-module github.com/dsnet/udptunnel
+module github.com/jbarnhill-vk/udptunnel
 
 go 1.12
 
