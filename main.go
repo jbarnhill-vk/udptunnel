@@ -54,7 +54,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/dsnet/golib/jsonfmt"
+	"github.com/jbarnhill-vk/golib/jsonfmt"
 )
 
 // Version of the udptunnel binary. May be set by linker when building.
